@@ -5,8 +5,11 @@ A comprehensive customer churn analysis simulation for XYZ Analytics as part of 
 
 ## Key Highlights
 . Data Analysis: Conducted efficient data analysis using Python, including libraries such as Pandas and NumPy.
+
 . Visualization: Employed data visualization techniques for insightful trend interpretation.[code](https://github.com/Rehima1/BCG-Data-Science-Job-Simulation/blob/main/Task2_(1).ipynb)
-. Modeling: Engineered and optimized a Random Forest model, achieving an 90% accuracy rate in predicting customer churn.[Code]() 
+
+. Modeling: Engineered and optimized a Random Forest model, achieving an 90% accuracy rate in predicting customer churn.[Code](https://github.com/Rehima1/BCG-Data-Science-Job-Simulation/blob/main/Task3%264_ipynb.ipynb) 
+
 . Executive Summary: Delivered a concise executive summary for the Associate Director, providing actionable insights for informed decision-making. [click here]() 
 ## Tools and Technologies
 Python
